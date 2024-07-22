@@ -11,12 +11,11 @@ MediaVision is a Python application that leverages MediaPipe and OpenCV for hand
 - MediaPipe
 - PyAutoGUI
 - PyCaw
-- Comtypes
-- 
+
 #Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/MediaVision.git
+git clone https://github.com/ahsharan/MediaVision.git
 cd MediaVision
 
 Install the required dependencies:
